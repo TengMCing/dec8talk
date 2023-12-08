@@ -1,0 +1,75 @@
+---
+title: "Discussion"
+subtitle: "Visualising high-dimensional and complex data"
+author: 
+  - name: "Weihao (Patrick) Li"
+    affiliations: 
+    - name: "Department of econometrics and business statistics, Monash University"
+format: revealjs
+editor: visual
+---
+
+## Discussion
+
+<br>
+
+<br>
+
+##### Visualizing high-dimensional and complex data is essential for uncovering patterns, extracting meaningful insights, and communicating findings effectively.
+
+---
+
+## Summary
+
+#### Viewing the Model from a Non-Linear Dimension Reduction in the High-Dimensional Data Space
+
+<br>
+
+::: {style="font-size: 80%;"}
+Jayani presents an algorithm using hexagonal binning and triangulation to create a wireframe model for non-linear dimension reduction (NLDR) assessment, providing insights into how different methods warp high-dimensional space. The application is relevant for analysts in bioinformatics and ecology, and the algorithm is accessible through the R package `quollr`.
+:::
+
+---
+
+## Summary
+
+#### Visualizing high-dimensional genomics data, and what Non-Linear Dimension Reduction hides and misrepresents
+
+<br>
+
+::: {style="font-size: 80%;"}
+Non-Linear Dimension Reduction (NLDR) methods, like Uniform Manifold Approximation and Projection for Dimension Reduction (UMAP), are commonly employed to represent high-throughput genomic sequencing data. In this presentation, Paul introduces an interactive Javascript-based widget called `Langevitour` designed for providing smooth animation of linear projections of the data. This dynamic visualization allows for the comparison of various NLDR methods and the exploration of features that may be inaccurately represented by NLDR.
+:::
+
+---
+
+## Summary
+
+#### Visualization and Spatio-Temporal Modeling of the Brazilian Wildfires: The Influence of Human and Meteorological Variables
+
+<br>
+
+::: {style="font-size: 80%;"}
+Remote satellite data provides a potential solution to the challenge of active fire detection and monitoring. In this talk, Paulo presents a study considering fire spots in Brazil between January 2011 and December 2022. The fire spots data along with other meteorological and human data are used to build a spatio-temporal generalized linear model. The model shows that the change in land use significantly increases the number of fire spots for all six Brazilian biomes.
+:::
+
+---
+
+## Questions?
+
+::: {style="font-size: 80%;"}
+
+##### Viewing the Model from a Non-Linear Dimension Reduction in the High-Dimensional Data Space
+
+- Choices other than hexagon
+- Points in the hexagon may not uniformly distributed
+
+##### Visualizing high-dimensional genomics data, and what Non-Linear Dimension Reduction hides and misrepresents
+
+- Motivation of implementing Langevin Dynamics for tour
+
+##### Visualization and Spatio-Temporal Modeling of the Brazilian Wildfires: The Influence of Human and Meteorological Variables
+
+- 
+
+:::
