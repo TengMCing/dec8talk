@@ -70,7 +70,7 @@ Remote satellite data provides a potential solution to the challenge of active f
 
 ##### Visualization and Spatio-Temporal Modeling of the Brazilian Wildfires: The Influence of Human and Meteorological Variables
 
+- Fire radiative power 
 - Fire risk prediction
-- Road network data (e.g. OpenStreetMap)
 
 :::
